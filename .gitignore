@@ -85,6 +85,6 @@ output/
 *.lst
 *.log
 *.tmp
-code Citations.md
+Code Citations.md
 # Ignore node_modules (if any JS tooling is used)
 node_modules/
